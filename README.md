@@ -1,16 +1,35 @@
-### Hi there 👋
+# Antonio Anerão
+[![Gmail Badge](https://img.shields.io/badge/-tiago.hsilva@al.infnet.edu.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tiago.hsilva@al.infnet.edu.br)](mailto:tiago.hsilva@al.infnet.edu.br)
+[![Outlook Badge](https://img.shields.io/badge/-tiago.silva.93@hotmail.com-blue?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:tiago.silva.93@hotmail.com)](mailto:tiago.silva.93@hotmail.com)
 
-<!--
-**tiagohs/tiagohs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p><a href="https://www.facebook.com/tiago.henrique.16">
+  <img alt="Follow me on Facebook" src="https://image.freepik.com/free-icon/facebook-symbol_318-37686.png" data-canonical-src="https://image.freepik.com/free-icon/facebook-symbol_318-37686.png" style="max-width:100%;" height="60" width="60">
+</a>
+<a href="https://br.linkedin.com/in/tiago-henrique-395868b7">
+  <img alt="Add me to Linkedin" src="http://image.flaticon.com/icons/svg/34/34405.svg" data-canonical-src="http://image.flaticon.com/icons/svg/34/34405.svg" style="max-width:100%;" height="60" width="60">
+</a>
+<a href="http://tiagohs.net/">
+  <img alt="Site Portfolio" src="https://raw.githubusercontent.com/tiagohs/PopMovies/master/arts/portfolio.png" data-canonical-src="https://raw.githubusercontent.com/tiagohs/PopMovies/master/arts/portfolio.png" style="max-width:100%;" height="60" width="60">
+</a></p>
+## Mobile and Web developer with focus on Coffee, Kotlin and React development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```                          
+                           \\\\\\\\\\\\\\
+  -----------,-|           |C>   // )\\\\|
+           ,','|          /    || ,'/////|
+---------,','  |         (,    ||   /////
+         ||    |          \\  ||||//''''|
+         ||    |           |||||||     _|
+         ||    |______      `````\____/ \
+         ||    |     ,|         _/_____/ \
+         ||  ,'    ,' |        /          |
+         ||,'    ,'   |       |         \  |
+_________|/    ,'     |      /           | |
+_____________,'      ,',_____|      |    | |
+             |     ,','      |      |    | |
+             |   ,','    ____|_____/    /  |
+             | ,','  __/ |             /   |
+_____________|','   ///_/-------------/   |
+              |===========,'
+```
